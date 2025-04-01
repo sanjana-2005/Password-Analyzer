@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/9a1a478f-8932-45af-a91d-91a5417cf0fa
+
 # AI Password Strength Analyzer
 
 An intelligent tool that analyzes password strength using AI and machine learning techniques to predict password vulnerability and provide actionable suggestions for improvement.
