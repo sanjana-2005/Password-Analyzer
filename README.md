@@ -85,10 +85,6 @@ This tool is designed for password strength analysis only. It does not store or 
 
 Contributions are welcome! Please feel free to submit a Pull Request.  
 
-## License  
 
-This project is licensed under the MIT License - see the LICENSE file for details.  
 
----
 
-Let me know if you need any more modifications! 🚀
