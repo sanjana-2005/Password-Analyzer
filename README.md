@@ -49,7 +49,7 @@ An intelligent tool that analyzes password strength using AI and machine learnin
 
 1. Start the Flask application:  
    ```bash
-   python app.py
+   python ML_Model_app.py
    ```
 2. Open your web browser and navigate to:  
    ```
